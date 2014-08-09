@@ -10,5 +10,8 @@
 
 @interface ViewController : UIViewController<UITextFieldDelegate>
 @property (weak, nonatomic) IBOutlet UITextField *textField;
+@property (weak, nonatomic) IBOutlet UILabel *normalResultLabel;
+@property (weak, nonatomic) IBOutlet UILabel *resultTextLabel;
+
 
 @end
