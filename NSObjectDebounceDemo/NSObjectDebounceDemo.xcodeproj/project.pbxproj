@@ -59,6 +59,7 @@
 		A1AD6DC619838D680026BE06 = {
 			isa = PBXGroup;
 			children = (
+				A1AD6DF519838EFD0026BE06 /* NSObject+debounce */,
 				A1AD6DD819838D680026BE06 /* NSObjectDebounceDemo */,
 				A1AD6DD119838D680026BE06 /* Frameworks */,
 				A1AD6DD019838D680026BE06 /* Products */,
@@ -86,7 +87,6 @@
 		A1AD6DD819838D680026BE06 /* NSObjectDebounceDemo */ = {
 			isa = PBXGroup;
 			children = (
-				A1AD6DF519838EFD0026BE06 /* NSObject+debounce */,
 				A1AD6DE119838D680026BE06 /* AppDelegate.h */,
 				A1AD6DE219838D680026BE06 /* AppDelegate.m */,
 				A1AD6DEA19838D680026BE06 /* ViewController.h */,
@@ -117,7 +117,8 @@
 				A1AD6DF619838F0A0026BE06 /* NSObject+debounce.h */,
 				A1AD6DF719838F0A0026BE06 /* NSObject+debounce.m */,
 			);
-			path = "NSObject+debounce";
+			name = "NSObject+debounce";
+			path = "../NSObject+debounce";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -312,6 +313,7 @@
 				A1AD6DF419838D680026BE06 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
