@@ -6,3 +6,10 @@
 #
 # Pods/
 
+.DS_Store
+NSObjectDebounceDemo/.DS_Store
+NSObjectDebounceDemo/NSObjectDebounceDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+NSObjectDebounceDemo/NSObjectDebounceDemo.xcodeproj/project.xcworkspace/xcuserdata/andy.xcuserdatad/UserInterfaceState.xcuserstate
+NSObjectDebounceDemo/NSObjectDebounceDemo.xcodeproj/xcuserdata/andy.xcuserdatad/xcschemes/NSObjectDebounceDemo.xcscheme
+NSObjectDebounceDemo/NSObjectDebounceDemo.xcodeproj/xcuserdata/andy.xcuserdatad/xcschemes/xcschememanagement.plist
+NSObjectDebounceDemo/NSObjectDebounceDemo/.DS_Store
